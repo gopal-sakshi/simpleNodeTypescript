@@ -1,0 +1,5 @@
+Node.js packages are written in JavaScript and not Typescript. 
+- To get the type definitions for its packages, you need to install third-party packages called @types.
+
+@types/express
+@types/node
