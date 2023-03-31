@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",  
   "scripts": {
-    "readMe": "Whats happening - there is no port... just typescript to javascript thingy"    
+    "readMe": "Whats happening - there is no port... just typescript to javascript thingy",
+    "start_server":"tsc src/express/app.ts --esModuleInterop true"
   },
   "keywords": [],
   "author": "",

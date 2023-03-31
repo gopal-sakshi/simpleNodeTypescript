@@ -4,7 +4,7 @@
     "module": "commonjs",
     "strict": true,
     "outDir": "./dist",
-    // "rootDir": "./src",
+    "rootDir": "./",
     "moduleResolution": "node",
     "esModuleInterop": true,
     "strictPropertyInitialization": false
@@ -14,7 +14,7 @@
     "./file_in_exclude_array_tsconfig.ts",
     "./src/football"      // these typescript files wont be compiled 
   ],
-  // "include": [                                                 // Need to learn the purpose, functionality of this include[] array
+  // "include": [     // Need to learn the purpose, functionality of this include[] array
   //   "./file_in_include_array_tsconfig.ts"
   // ],
   // "files": [

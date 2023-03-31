@@ -24,7 +24,8 @@ Build:No inputs were found in config file --- tsconfig.json
 
 # "rootDir": "./src"
 - src folder will contain `ts` files
-- if rootDir isnt mentioned `all and any` ts files --------> will be compiled & corresponding js files will be created in dist folder
+- if rootDir isnt mentioned `all and any` ts files --------> 
+    will be compiled & corresponding js files will be created in dist folder
     ofcourse, exclude files will still be ignored
 
 Note
